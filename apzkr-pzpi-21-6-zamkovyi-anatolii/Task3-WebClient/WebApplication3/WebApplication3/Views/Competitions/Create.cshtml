@@ -1,0 +1,63 @@
+﻿@model WebApplication3.Models.Competition
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Competition</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="OrganizationId" class="control-label"></label>
+                <input asp-for="OrganizationId" class="form-control" />
+                <span asp-validation-for="OrganizationId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CoachId" class="control-label"></label>
+                <input asp-for="CoachId" class="form-control" />
+                <span asp-validation-for="CoachId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CompetitionName" class="control-label"></label>
+                <input asp-for="CompetitionName" class="form-control" />
+                <span asp-validation-for="CompetitionName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CompetitionCountry" class="control-label"></label>
+                <input asp-for="CompetitionCountry" class="form-control" />
+                <span asp-validation-for="CompetitionCountry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CompetitionCity" class="control-label"></label>
+                <input asp-for="CompetitionCity" class="form-control" />
+                <span asp-validation-for="CompetitionCity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RegistrationDeadline" class="control-label"></label>
+                <input asp-for="RegistrationDeadline" class="form-control" />
+                <span asp-validation-for="RegistrationDeadline" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CompetitioneDate" class="control-label"></label>
+                <input asp-for="CompetitioneDate" class="form-control" />
+                <span asp-validation-for="CompetitioneDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

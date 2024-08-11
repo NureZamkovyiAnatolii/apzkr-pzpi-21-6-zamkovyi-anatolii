@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|d:\\study\\webapplication3\\testproject1\\starttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\starttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\data\\webapplication3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\webapplication3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|d:\\study\\webapplication3\\testproject1\\testproject1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\crewhandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\crewhandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|d:\\study\\webapplication3\\testproject1\\crewtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\crewtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\crewhandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\crewhandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|d:\\study\\webapplication3\\testproject1\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\crewrowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\crewrowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\crewhandicaprowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\crewhandicaprowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\crewhandicaprower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\crewhandicaprower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|d:\\study\\webapplication3\\testproject1\\finishtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21751A29-1765-4D0E-B044-5BA9A7FAC1F9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\finishtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\finishedracewithhandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\finishedracewithhandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\racewithhandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\racewithhandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\finishedrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\finishedrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\finishedracescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\finishedracescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\crewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\crewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\crewrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\crewrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\finishedracewithhandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\finishedracewithhandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\resulthandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\resulthandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\resulthandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\resulthandicap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\racewithhandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\racewithhandicapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\racescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\racescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\views\\login\\loginathlete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\login\\loginathlete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\boattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\boattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\controllers\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|d:\\study\\webapplication3\\webapplication3\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E796886-7CE1-489E-B20B-2E7C6AB44276}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\C_Charp\\WebApplication3\\WebApplication3\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Crew.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Crew.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Crew.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Crew.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Crew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:35:39.717Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CrewRower.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\CrewRower.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\CrewRower.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\CrewRower.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\CrewRower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:36:10.238Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Race.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Race.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Race.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Race.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:11:53.407Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\TestProject1\\UserTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UserTests.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\TestProject1\\UserTests.cs",
+              "RelativeToolTip": "TestProject1\\UserTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:44:55.588Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication3Context.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Data\\WebApplication3Context.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Data\\WebApplication3Context.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Data\\WebApplication3Context.cs",
+              "RelativeToolTip": "WebApplication3\\Data\\WebApplication3Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:06:53.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:50:23.353Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T05:57:06.171Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Coach.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Coach.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Coach.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Coach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:01:49.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrewTests.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\TestProject1\\CrewTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\CrewTests.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\TestProject1\\CrewTests.cs",
+              "RelativeToolTip": "TestProject1\\CrewTests.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:07:34.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrewHandicap.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\CrewHandicap.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\CrewHandicap.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\CrewHandicap.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\CrewHandicap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:21:18.027Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrewHandicapsController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewHandicapsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CrewHandicapsController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewHandicapsController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CrewHandicapsController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAwwJ8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:25:05.67Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartTest.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\TestProject1\\StartTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\StartTest.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\TestProject1\\StartTest.cs",
+              "RelativeToolTip": "TestProject1\\StartTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:50:04.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FinishTest.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\TestProject1\\FinishTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\FinishTest.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\TestProject1\\FinishTest.cs",
+              "RelativeToolTip": "TestProject1\\FinishTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:54:37.534Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebApplication3",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T07:23:13.383Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProject1",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "D:\\Study\\WebApplication3\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T14:22:52.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FinishedRaceWithHandicapsController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\FinishedRaceWithHandicapsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\FinishedRaceWithHandicapsController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\FinishedRaceWithHandicapsController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\FinishedRaceWithHandicapsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:45:50.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FinishedRacesController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\FinishedRacesController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\FinishedRacesController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\FinishedRacesController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\FinishedRacesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:45:19.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResultHandicapsController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\ResultHandicapsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ResultHandicapsController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\ResultHandicapsController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ResultHandicapsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:44:02.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResultHandicap.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\ResultHandicap.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ResultHandicap.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\ResultHandicap.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ResultHandicap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:43:05.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ResultsController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ResultsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:42:42.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CrewHandicapRowersController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewHandicapRowersController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CrewHandicapRowersController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewHandicapRowersController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CrewHandicapRowersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:26:30.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RaceWithHandicapsController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\RaceWithHandicapsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\RaceWithHandicapsController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\RaceWithHandicapsController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\RaceWithHandicapsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:25:44.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrewHandicapRower.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\CrewHandicapRower.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\CrewHandicapRower.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\CrewHandicapRower.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\CrewHandicapRower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:22:42.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoachesController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CoachesController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CoachesController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CoachesController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CoachesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:01:41.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CrewsController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CrewsController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewsController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CrewsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAzwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:39:17.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrewRowersController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewRowersController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CrewRowersController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\CrewRowersController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CrewRowersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:35:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginAthlete.cshtml",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Views\\Login\\LoginAthlete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Login\\LoginAthlete.cshtml",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Views\\Login\\LoginAthlete.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Login\\LoginAthlete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T07:45:16.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\C_Charp\\WebApplication3\\WebApplication3\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\\u0423\u043D\u0438\u0432\u0435\u0440\\C_Charp\\WebApplication3\\WebApplication3\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\C_Charp\\WebApplication3\\WebApplication3\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "..\\..\\\u0423\u043D\u0438\u0432\u0435\u0440\\C_Charp\\WebApplication3\\WebApplication3\\Views\\Login\\Login.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T07:44:05.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:42:35.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:41:32.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\Login.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\Login.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\Login.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\Login.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwC0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:41:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RacesController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\RacesController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\RacesController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\RacesController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\RacesController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:29:11.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AthletesController.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\AthletesController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\AthletesController.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\AthletesController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\AthletesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:09:13.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Views\\SignUp\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\SignUp\\SignUp.cshtml",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Views\\SignUp\\SignUp.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\SignUp\\SignUp.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:03:59.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T08:16:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SignUpViewModel.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\SignUpViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:15:19.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\SignUp.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SignUp.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Controllers\\SignUp.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\SignUp.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:14:17.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BoatType.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\BoatType.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\BoatType.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\BoatType.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\BoatType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:02:34.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinishedRaceWithHandicap.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\FinishedRaceWithHandicap.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\FinishedRaceWithHandicap.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\FinishedRaceWithHandicap.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\FinishedRaceWithHandicap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:42:27.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Result.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Result.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:41:00.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FinishedRace.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\FinishedRace.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\FinishedRace.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\FinishedRace.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\FinishedRace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:40:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:38:15.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RaceWithHandicap.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\RaceWithHandicap.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\RaceWithHandicap.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\RaceWithHandicap.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\RaceWithHandicap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:34:56.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Organization.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Organization.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Organization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:09:41.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Athlete.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Athlete.cs",
+              "ToolTip": "D:\\Study\\WebApplication3\\WebApplication3\\Models\\Athlete.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Athlete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:14:08.701Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 547,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

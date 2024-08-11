@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebApplication3.Models.CrewRower>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AthleteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CrewId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AthleteId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CrewId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CrewRowerId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CrewRowerId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CrewRowerId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

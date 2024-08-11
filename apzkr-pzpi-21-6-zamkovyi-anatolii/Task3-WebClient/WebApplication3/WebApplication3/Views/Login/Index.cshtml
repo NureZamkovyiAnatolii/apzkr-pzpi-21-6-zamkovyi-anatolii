@@ -1,0 +1,83 @@
+﻿@page
+@model LoginViewModel
+@{
+}
+<html>
+<body>
+   
+    <h2>Форма входу</h2>
+    @if (Model != null && !string.IsNullOrEmpty(Model.AlertMessage))
+    {
+        <div class="alert">
+            @Model.AlertMessage
+        </div>
+    }
+    <form action="/Login/LoginAll" method="post">
+        <select name="role">
+            <!-- Value should correspond to the roles you defined in LoginAll -->
+            <option value="Тренер">Тренер</option>
+            <option value="Спортсмен">Спортсмен</option>
+            <option value="Фанат">Фанат</option>
+            <option value="Організація">Організація</option>
+        </select>
+        <div>
+            <label for="AthleteName">Ім'я:</label>
+            <input type="text" id="AthleteName" name="name" required>
+        </div>
+        <div>
+            <label for="Password">Пароль:</label>
+            <input type="password" id="Password" name="password" required>
+        </div>
+        <div>
+            <input type="submit" value="Увійти">
+        </div>
+    </form>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            color: #333;
+            text-align:center;
+        }
+
+        form {
+            max-width: 400px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        select, input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+        }
+
+        input[type="submit"] {
+            background-color: #4caf50;
+            color: #fff;
+            cursor: pointer;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #45a049;
+            }
+    </style>
+</body>
+</html>
