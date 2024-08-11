@@ -1,0 +1,283 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Server
+build_property.RootNamespace = Server
+build_property.ProjectDir = C:\Users\i am\source\repos\Server\Server\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\i am\source\repos\Server\Server
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Athletes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRobGV0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Athletes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRobGV0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Athletes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRobGV0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Athletes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRobGV0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Athletes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRobGV0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Coaches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Coaches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Coaches/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Coaches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Coaches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Competitions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Competitions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Competitions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Competitions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Competitions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewHandicaps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld0hhbmRpY2Fwc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewHandicaps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld0hhbmRpY2Fwc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewHandicaps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld0hhbmRpY2Fwc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewHandicaps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld0hhbmRpY2Fwc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewHandicaps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld0hhbmRpY2Fwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewRowers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld1Jvd2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewRowers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld1Jvd2Vyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewRowers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld1Jvd2Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewRowers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld1Jvd2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/CrewRowers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld1Jvd2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Crews/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Crews/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Crews/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Crews/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Crews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Jld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaces/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaces/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaces/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaces/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaces/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaceWithHandicaps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlV2l0aEhhbmRpY2Fwc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaceWithHandicaps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlV2l0aEhhbmRpY2Fwc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaceWithHandicaps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlV2l0aEhhbmRpY2Fwc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaceWithHandicaps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlV2l0aEhhbmRpY2Fwc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/FinishedRaceWithHandicaps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluaXNoZWRSYWNlV2l0aEhhbmRpY2Fwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Organizations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemF0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Organizations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemF0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Organizations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemF0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Organizations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemF0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Organizations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemF0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Races/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Races/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Races/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Races/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Races/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/RaceWithHandicaps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVdpdGhIYW5kaWNhcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/RaceWithHandicaps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVdpdGhIYW5kaWNhcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/RaceWithHandicaps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVdpdGhIYW5kaWNhcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/RaceWithHandicaps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVdpdGhIYW5kaWNhcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/RaceWithHandicaps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVdpdGhIYW5kaWNhcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/ResultHandicaps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0SGFuZGljYXBzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/ResultHandicaps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0SGFuZGljYXBzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/ResultHandicaps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0SGFuZGljYXBzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/ResultHandicaps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0SGFuZGljYXBzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/ResultHandicaps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0SGFuZGljYXBzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Results/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Results/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Results/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Results/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Results/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i am/source/repos/Server/Server/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
